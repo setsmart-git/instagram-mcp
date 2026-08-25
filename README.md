@@ -29,7 +29,7 @@ Add this to your MCP config (`claude_desktop_config.json`, or `.mcp.json` for Cl
   "mcpServers": {
     "setsmart": {
       "command": "npx",
-      "args": ["-y", "github:setsmart-git/instagram-mcp"],
+      "args": ["-y", "setsmart-mcp"],
       "env": {
         "SETSMART_API_KEY": "your-workspace-api-key"
       }
