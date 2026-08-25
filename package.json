@@ -1,0 +1,49 @@
+{
+  "name": "@setsmart/mcp",
+  "version": "0.1.0",
+  "description": "MCP server for Instagram, WhatsApp and Messenger DMs. Send and reply to direct messages, comments and templates through official Meta Business APIs.",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "instagram-mcp",
+    "whatsapp-mcp",
+    "messenger-mcp",
+    "instagram",
+    "whatsapp",
+    "messenger",
+    "instagram-dm",
+    "dm-automation",
+    "claude",
+    "cursor"
+  ],
+  "license": "MIT",
+  "homepage": "https://setsmart.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setsmart-git/instagram-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/setsmart-git/instagram-mcp/issues"
+  },
+  "author": "SetSmart <contact@setsmart.io>",
+  "type": "module",
+  "bin": {
+    "setsmart-mcp": "src/index.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
