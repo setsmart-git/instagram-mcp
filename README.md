@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://setsmart.io/logo.png" alt="SetSmart" width="88" height="88">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://setsmart.io/setsmart_full_logo.png">
+    <img src="https://setsmart.io/setsmart_full_logo_black.png" alt="SetSmart" height="44">
+  </picture>
 </p>
 
 # Instagram MCP Server (also WhatsApp and Messenger)
