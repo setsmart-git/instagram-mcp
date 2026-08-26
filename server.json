@@ -6,7 +6,7 @@
     "url": "https://github.com/setsmart-git/instagram-mcp",
     "source": "github"
   },
-  "version": "0.1.2",
+  "version": "0.1.3",
   "packages": [
     {
       "registryType": "npm",
@@ -33,5 +33,14 @@
       "url": "https://setsmart.io/api/mcp"
     }
   ],
-  "websiteUrl": "https://setsmart.io"
+  "websiteUrl": "https://setsmart.io",
+  "icons": [
+    {
+      "src": "https://setsmart.io/logo.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "1635x1635"
+      ]
+    }
+  ]
 }

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://setsmart.io/logo.png" alt="SetSmart" width="88" height="88">
+</p>
+
 # Instagram MCP Server (also WhatsApp and Messenger)
 
 An [MCP](https://modelcontextprotocol.io) server that lets Claude, Cursor, Claude Code and any other MCP client read and reply to **Instagram DMs, WhatsApp messages and Facebook Messenger conversations**, through the official Meta Business APIs.
